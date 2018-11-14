@@ -2,7 +2,7 @@
 Quick demo of Excel VLOOKUP vs R dplyr::left_join
 
 ##I produced a quick video showing the different strategies that can be found here:
-https://youtu.be/uHZjthIXx7A
+https://www.youtube.com/watch?v=uHZjthIXx7A&feature=youtu.be
 
 This repo includes:
 The R data file that created the original file and the cleaning in both base R and dplyr/tidyverse methods
